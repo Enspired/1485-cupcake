@@ -1,0 +1,25 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+section > p {
+	color: orange;
+}
+
+header {
+	color: blue;
+}
+
+p {
+	color: red;
+}
+
+header > p {
+	color: purple;
+}
+
+
+
+
+
+
